@@ -44,4 +44,6 @@ new_york_city.csv
 washington.csv  
 bikeshare.py**
 ### Credits
-https://www.udacity.com
+https://www.udacity.com  
+https://pandas.pydata.org/pandas-docs/stable/index.html  
+https://stackoverflow.com
