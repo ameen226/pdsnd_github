@@ -2,7 +2,7 @@
 **Tuesday, October 22, 2019**
 
 ### Project Title
-**Bike Share**
+**bikeshare data explorer**
 ### Description
 *This project explores data related to [Motivate](https://www.motivateco.com),
 a bike share system provider for many major cities in
